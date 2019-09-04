@@ -1,0 +1,2 @@
+Workflows describe what the applicaiton does, these are focused on a transition to a new state for the domain objects.
+Worfklows are used to generate the feature files in the generated feature files folder

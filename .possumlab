@@ -1,0 +1,6 @@
+ProgrammingLanguage: C#
+TestProvider: MsTest
+GeneratedScenarioLimit: 1000
+Options: 
+- Name: Namespace
+  Value: SomeApp
