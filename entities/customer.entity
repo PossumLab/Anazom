@@ -1,5 +1,6 @@
 Templates: []
-Events: []
+Events:
+- Name: Searching
 Characteristics: []
 ExistingEntities: []
 MutuallyExclusiveCharacteristicsSets: []
