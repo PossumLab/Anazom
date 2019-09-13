@@ -1,6 +1,8 @@
 Templates: []
-Events: []
-Characteristics: []
+Events:
+- Name: Created
+Characteristics:
+- Name: Shipped
 ExistingEntities: []
 MutuallyExclusiveCharacteristicsSets: []
 Key: entities/order.entity
