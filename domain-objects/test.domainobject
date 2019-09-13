@@ -1,9 +1,0 @@
-Templates: []
-Events:
-- Name: Test2
-States:
-- Name: Test3
-ExistingDomainObjects: []
-MutuallyExclusiveStatesSets: []
-Key: domain-objects/test.domainobject
-Name: Test
